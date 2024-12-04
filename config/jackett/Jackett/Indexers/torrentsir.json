@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "http://torrentsir160.com/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "PHPSESSID=pfl14g6m6aqfdqbsj9uod6mrp3; 2a0d2363701f23f8a75028924a3af643=MTE2LjkwLjc0LjE1OA%3D%3D; e1192aefb64683cc97abb83c71057733=ZW50ZXJ0YWlu"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": null
+  },
+  {
+    "id": "tags",
+    "type": "inputtags",
+    "name": "Tags",
+    "value": ""
+  }
+]

@@ -1,0 +1,102 @@
+services:
+  qbittorrent:
+    image: linuxserver/qbittorrent
+    container_name: qbittorrent
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Pacific/Auckland
+      - WEBUI_PORT=8080
+    volumes:
+      - /Volumes/T7/downloads:/downloads
+      - ./config/qbittorrent:/config
+    networks:
+      - media-network
+    ports:
+      - 8080:8080
+      - 6881:6881
+      - 6881:6881/udp
+    restart: unless-stopped
+
+  jackett:
+    image: linuxserver/jackett
+    container_name: jackett
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Pacific/Auckland
+    volumes:
+      - ./config/jackett:/config
+    networks:
+      - media-network
+    ports:
+      - 9117:9117
+    restart: unless-stopped
+
+  sonarr:
+    image: linuxserver/sonarr
+    container_name: sonarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Pacific/Auckland
+    volumes:
+      - /Volumes/T7/downloads:/downloads
+      - ./config/sonarr:/config
+    networks:
+      - media-network
+    ports:
+      - 8989:8989
+    restart: unless-stopped
+
+  radarr:
+    image: linuxserver/radarr
+    container_name: radarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Pacific/Auckland
+    volumes:
+      - /Volumes/T7/downloads:/downloads
+      - /Volumes/T7/movies:/movies
+      - ./config/radarr:/config
+    networks:
+      - media-network
+    ports:
+      - 7878:7878
+    restart: unless-stopped
+
+  flaresolverr:
+    image: ghcr.io/flaresolverr/flaresolverr:latest
+    container_name: flaresolverr
+    environment:
+      - LOG_LEVEL=info
+      - CAPTCHA_SOLVER_TIMEOUT=120
+    networks:
+      - media-network
+    ports:
+      - 8191:8191
+    restart: unless-stopped
+
+  sonarr-proxy:
+    image: node:18
+    build:
+      context: ./middleware
+      dockerfile: Dockerfile
+    container_name: sonarr-proxy
+    environment:
+      - NODE_ENV=production
+    networks:
+      - media-network
+    dns:
+      - 8.8.8.8
+      - 8.8.4.4
+    volumes:
+      - ./middleware:/app
+    ports:
+      - 3000:3000
+    restart: unless-stopped
+
+networks:
+  media-network:
+    driver: bridge

@@ -1,0 +1,848 @@
+(I) 2024-11-27T19:41:24 - Anonymous mode: ON
+(I) 2024-11-27T19:41:24 - Encryption support: ON
+(I) 2024-11-27T19:41:24 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T19:41:24 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T19:41:24 - Successfully listening on IP. IP: "172.18.0.3". Port: "TCP/6881"
+(I) 2024-11-27T19:41:24 - Successfully listening on IP. IP: "172.18.0.3". Port: "UTP/6881"
+(I) 2024-11-27T19:41:24 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T19:41:24 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T19:41:24 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(N) 2024-11-27T19:41:24 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T19:41:24 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T19:41:24 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(I) 2024-11-27T19:41:24 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T19:41:24 - Using built-in WebUI.
+(N) 2024-11-27T19:41:24 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T19:41:24 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-11-27T19:41:25 - WebAPI login success. IP: ::ffff:172.18.0.4
+(N) 2024-11-27T19:41:25 - WebAPI login success. IP: ::ffff:172.18.0.6
+(I) 2024-11-27T19:41:29 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T20:09:48 - qBittorrent termination initiated
+(N) 2024-11-27T20:09:48 - Saving resume data completed.
+(N) 2024-11-27T20:09:48 - BitTorrent session successfully finished.
+(N) 2024-11-27T20:09:48 - qBittorrent is now ready to exit
+(N) 2024-11-27T20:10:03 - qBittorrent v5.0.2 started. Process ID: 145
+(N) 2024-11-27T20:10:03 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T20:10:03 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T20:10:03 - Peer ID: "-qB5020-"
+(I) 2024-11-27T20:10:03 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T20:10:03 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T20:10:03 - Local Peer Discovery support: ON
+(I) 2024-11-27T20:10:03 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T20:10:03 - Anonymous mode: ON
+(I) 2024-11-27T20:10:03 - Encryption support: ON
+(I) 2024-11-27T20:10:03 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T20:10:03 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T20:10:03 - Successfully listening on IP. IP: "172.19.0.3". Port: "TCP/6881"
+(I) 2024-11-27T20:10:03 - Successfully listening on IP. IP: "172.19.0.3". Port: "UTP/6881"
+(I) 2024-11-27T20:10:03 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T20:10:03 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T20:10:03 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(N) 2024-11-27T20:10:03 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T20:10:03 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T20:10:03 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(I) 2024-11-27T20:10:03 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T20:10:03 - Using built-in WebUI.
+(N) 2024-11-27T20:10:03 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T20:10:03 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-11-27T20:10:05 - WebAPI login success. IP: ::ffff:172.19.0.6
+(N) 2024-11-27T20:10:05 - WebAPI login success. IP: ::ffff:172.19.0.5
+(I) 2024-11-27T20:10:08 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T20:16:29 - qBittorrent termination initiated
+(N) 2024-11-27T20:16:29 - Saving resume data completed.
+(N) 2024-11-27T20:16:29 - BitTorrent session successfully finished.
+(N) 2024-11-27T20:16:29 - qBittorrent is now ready to exit
+(N) 2024-11-27T20:16:43 - qBittorrent v5.0.2 started. Process ID: 144
+(N) 2024-11-27T20:16:43 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T20:16:43 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T20:16:43 - Peer ID: "-qB5020-"
+(I) 2024-11-27T20:16:43 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T20:16:43 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T20:16:43 - Local Peer Discovery support: ON
+(I) 2024-11-27T20:16:43 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T20:16:43 - Anonymous mode: ON
+(I) 2024-11-27T20:16:43 - Encryption support: ON
+(I) 2024-11-27T20:16:43 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T20:16:43 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T20:16:43 - Successfully listening on IP. IP: "172.18.0.4". Port: "TCP/6881"
+(I) 2024-11-27T20:16:43 - Successfully listening on IP. IP: "172.18.0.4". Port: "UTP/6881"
+(I) 2024-11-27T20:16:43 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T20:16:43 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T20:16:43 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(N) 2024-11-27T20:16:43 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T20:16:43 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T20:16:43 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(I) 2024-11-27T20:16:43 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T20:16:43 - Using built-in WebUI.
+(N) 2024-11-27T20:16:43 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T20:16:43 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-11-27T20:16:45 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2024-11-27T20:16:45 - WebAPI login success. IP: ::ffff:172.18.0.3
+(I) 2024-11-27T20:16:48 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T20:21:37 - qBittorrent termination initiated
+(N) 2024-11-27T20:21:37 - Saving resume data completed.
+(N) 2024-11-27T20:21:37 - BitTorrent session successfully finished.
+(N) 2024-11-27T20:21:37 - qBittorrent is now ready to exit
+(N) 2024-11-27T20:21:52 - qBittorrent v5.0.2 started. Process ID: 144
+(N) 2024-11-27T20:21:52 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T20:21:52 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T20:21:52 - Peer ID: "-qB5020-"
+(I) 2024-11-27T20:21:52 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T20:21:52 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T20:21:52 - Local Peer Discovery support: ON
+(I) 2024-11-27T20:21:52 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T20:21:52 - Anonymous mode: ON
+(I) 2024-11-27T20:21:52 - Encryption support: ON
+(I) 2024-11-27T20:21:52 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T20:21:52 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T20:21:52 - Successfully listening on IP. IP: "172.19.0.2". Port: "TCP/6881"
+(I) 2024-11-27T20:21:52 - Successfully listening on IP. IP: "172.19.0.2". Port: "UTP/6881"
+(I) 2024-11-27T20:21:52 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T20:21:52 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T20:21:52 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(N) 2024-11-27T20:21:52 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T20:21:52 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T20:21:52 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(I) 2024-11-27T20:21:52 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T20:21:52 - Using built-in WebUI.
+(N) 2024-11-27T20:21:52 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T20:21:52 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-11-27T20:21:53 - WebAPI login success. IP: ::ffff:172.19.0.5
+(N) 2024-11-27T20:21:53 - WebAPI login success. IP: ::ffff:172.19.0.6
+(I) 2024-11-27T20:21:56 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T20:23:33 - qBittorrent termination initiated
+(N) 2024-11-27T20:23:33 - Saving resume data completed.
+(N) 2024-11-27T20:23:33 - BitTorrent session successfully finished.
+(N) 2024-11-27T20:23:33 - qBittorrent is now ready to exit
+(N) 2024-11-27T20:23:48 - qBittorrent v5.0.2 started. Process ID: 146
+(N) 2024-11-27T20:23:48 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T20:23:48 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T20:23:48 - Peer ID: "-qB5020-"
+(I) 2024-11-27T20:23:48 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T20:23:48 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T20:23:48 - Local Peer Discovery support: ON
+(I) 2024-11-27T20:23:48 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T20:23:48 - Anonymous mode: ON
+(I) 2024-11-27T20:23:48 - Encryption support: ON
+(I) 2024-11-27T20:23:48 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T20:23:48 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T20:23:48 - Successfully listening on IP. IP: "172.18.0.6". Port: "TCP/6881"
+(I) 2024-11-27T20:23:48 - Successfully listening on IP. IP: "172.18.0.6". Port: "UTP/6881"
+(I) 2024-11-27T20:23:48 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T20:23:48 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T20:23:48 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(N) 2024-11-27T20:23:48 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T20:23:48 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T20:23:48 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(I) 2024-11-27T20:23:48 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T20:23:48 - Using built-in WebUI.
+(N) 2024-11-27T20:23:48 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T20:23:48 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-11-27T20:23:49 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2024-11-27T20:23:49 - WebAPI login success. IP: ::ffff:172.18.0.3
+(I) 2024-11-27T20:23:53 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T20:33:48 - qBittorrent termination initiated
+(N) 2024-11-27T20:33:48 - Saving resume data completed.
+(N) 2024-11-27T20:33:48 - BitTorrent session successfully finished.
+(N) 2024-11-27T20:33:48 - qBittorrent is now ready to exit
+(N) 2024-11-27T20:34:03 - qBittorrent v5.0.2 started. Process ID: 145
+(N) 2024-11-27T20:34:03 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T20:34:03 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T20:34:03 - Peer ID: "-qB5020-"
+(I) 2024-11-27T20:34:03 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T20:34:03 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T20:34:03 - Local Peer Discovery support: ON
+(I) 2024-11-27T20:34:03 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T20:34:03 - Anonymous mode: ON
+(I) 2024-11-27T20:34:03 - Encryption support: ON
+(I) 2024-11-27T20:34:03 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T20:34:03 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T20:34:03 - Successfully listening on IP. IP: "172.19.0.4". Port: "TCP/6881"
+(I) 2024-11-27T20:34:03 - Successfully listening on IP. IP: "172.19.0.4". Port: "UTP/6881"
+(I) 2024-11-27T20:34:03 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T20:34:03 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T20:34:03 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(N) 2024-11-27T20:34:03 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T20:34:03 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T20:34:03 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(I) 2024-11-27T20:34:03 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T20:34:03 - Using built-in WebUI.
+(N) 2024-11-27T20:34:03 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T20:34:03 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-11-27T20:34:03 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T20:34:04 - WebAPI login success. IP: ::ffff:172.19.0.3
+(N) 2024-11-27T20:34:05 - WebAPI login success. IP: ::ffff:172.19.0.5
+(N) 2024-11-27T20:39:16 - qBittorrent termination initiated
+(N) 2024-11-27T20:39:16 - Saving resume data completed.
+(N) 2024-11-27T20:39:16 - BitTorrent session successfully finished.
+(N) 2024-11-27T20:39:16 - qBittorrent is now ready to exit
+(N) 2024-11-27T20:39:30 - qBittorrent v5.0.2 started. Process ID: 145
+(N) 2024-11-27T20:39:30 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T20:39:30 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T20:39:30 - Peer ID: "-qB5020-"
+(I) 2024-11-27T20:39:30 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T20:39:30 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T20:39:30 - Local Peer Discovery support: ON
+(I) 2024-11-27T20:39:30 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T20:39:30 - Anonymous mode: ON
+(I) 2024-11-27T20:39:30 - Encryption support: ON
+(I) 2024-11-27T20:39:30 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T20:39:30 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T20:39:30 - Successfully listening on IP. IP: "172.18.0.4". Port: "TCP/6881"
+(I) 2024-11-27T20:39:30 - Successfully listening on IP. IP: "172.18.0.4". Port: "UTP/6881"
+(I) 2024-11-27T20:39:30 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T20:39:30 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T20:39:30 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(N) 2024-11-27T20:39:30 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T20:39:30 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T20:39:31 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(I) 2024-11-27T20:39:31 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T20:39:31 - Using built-in WebUI.
+(N) 2024-11-27T20:39:31 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T20:39:31 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-11-27T20:39:32 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2024-11-27T20:39:32 - WebAPI login success. IP: ::ffff:172.18.0.3
+(I) 2024-11-27T20:39:36 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T20:47:23 - qBittorrent termination initiated
+(N) 2024-11-27T20:47:23 - Saving resume data completed.
+(N) 2024-11-27T20:47:23 - BitTorrent session successfully finished.
+(N) 2024-11-27T20:47:23 - qBittorrent is now ready to exit
+(N) 2024-11-27T20:47:38 - qBittorrent v5.0.2 started. Process ID: 145
+(N) 2024-11-27T20:47:38 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T20:47:38 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T20:47:38 - Peer ID: "-qB5020-"
+(I) 2024-11-27T20:47:38 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T20:47:38 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T20:47:38 - Local Peer Discovery support: ON
+(I) 2024-11-27T20:47:38 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T20:47:38 - Anonymous mode: ON
+(I) 2024-11-27T20:47:38 - Encryption support: ON
+(I) 2024-11-27T20:47:38 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T20:47:38 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T20:47:38 - Successfully listening on IP. IP: "172.19.0.5". Port: "TCP/6881"
+(I) 2024-11-27T20:47:38 - Successfully listening on IP. IP: "172.19.0.5". Port: "UTP/6881"
+(I) 2024-11-27T20:47:38 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T20:47:38 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T20:47:38 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(N) 2024-11-27T20:47:38 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T20:47:38 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T20:47:38 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(I) 2024-11-27T20:47:38 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T20:47:38 - Using built-in WebUI.
+(N) 2024-11-27T20:47:38 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T20:47:38 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-11-27T20:47:40 - WebAPI login success. IP: ::ffff:172.19.0.4
+(N) 2024-11-27T20:47:40 - WebAPI login success. IP: ::ffff:172.19.0.3
+(I) 2024-11-27T20:47:43 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T20:51:20 - qBittorrent termination initiated
+(N) 2024-11-27T20:51:20 - Saving resume data completed.
+(N) 2024-11-27T20:51:20 - BitTorrent session successfully finished.
+(N) 2024-11-27T20:51:20 - qBittorrent is now ready to exit
+(N) 2024-11-27T20:51:34 - qBittorrent v5.0.2 started. Process ID: 146
+(N) 2024-11-27T20:51:34 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T20:51:34 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T20:51:34 - Peer ID: "-qB5020-"
+(I) 2024-11-27T20:51:34 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T20:51:34 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T20:51:34 - Local Peer Discovery support: ON
+(I) 2024-11-27T20:51:34 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T20:51:34 - Anonymous mode: ON
+(I) 2024-11-27T20:51:34 - Encryption support: ON
+(I) 2024-11-27T20:51:34 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T20:51:34 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T20:51:34 - Successfully listening on IP. IP: "172.19.0.6". Port: "TCP/6881"
+(I) 2024-11-27T20:51:34 - Successfully listening on IP. IP: "172.19.0.6". Port: "UTP/6881"
+(I) 2024-11-27T20:51:34 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T20:51:34 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T20:51:34 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(N) 2024-11-27T20:51:34 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T20:51:34 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T20:51:34 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(I) 2024-11-27T20:51:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T20:51:34 - Using built-in WebUI.
+(N) 2024-11-27T20:51:34 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T20:51:34 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-11-27T20:51:36 - WebAPI login success. IP: ::ffff:172.19.0.5
+(N) 2024-11-27T20:51:36 - WebAPI login success. IP: ::ffff:172.19.0.2
+(I) 2024-11-27T20:51:39 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T20:54:05 - qBittorrent termination initiated
+(N) 2024-11-27T20:54:05 - Saving resume data completed.
+(N) 2024-11-27T20:54:05 - BitTorrent session successfully finished.
+(N) 2024-11-27T20:54:05 - qBittorrent is now ready to exit
+(N) 2024-11-27T20:54:25 - qBittorrent v5.0.2 started. Process ID: 146
+(N) 2024-11-27T20:54:25 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T20:54:25 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T20:54:25 - Peer ID: "-qB5020-"
+(I) 2024-11-27T20:54:25 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T20:54:25 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T20:54:25 - Local Peer Discovery support: ON
+(I) 2024-11-27T20:54:25 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T20:54:25 - Anonymous mode: ON
+(I) 2024-11-27T20:54:25 - Encryption support: ON
+(I) 2024-11-27T20:54:25 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T20:54:25 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T20:54:25 - Successfully listening on IP. IP: "172.19.0.7". Port: "TCP/6881"
+(I) 2024-11-27T20:54:25 - Successfully listening on IP. IP: "172.19.0.7". Port: "UTP/6881"
+(I) 2024-11-27T20:54:25 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T20:54:25 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T20:54:25 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(N) 2024-11-27T20:54:25 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T20:54:25 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T20:54:25 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(I) 2024-11-27T20:54:25 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T20:54:25 - Using built-in WebUI.
+(N) 2024-11-27T20:54:25 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T20:54:25 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-11-27T20:54:27 - WebAPI login success. IP: ::ffff:172.19.0.6
+(N) 2024-11-27T20:54:27 - WebAPI login success. IP: ::ffff:172.19.0.5
+(I) 2024-11-27T20:54:30 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T20:56:16 - qBittorrent termination initiated
+(N) 2024-11-27T20:56:16 - Saving resume data completed.
+(N) 2024-11-27T20:56:16 - BitTorrent session successfully finished.
+(N) 2024-11-27T20:56:16 - qBittorrent is now ready to exit
+(N) 2024-11-27T20:56:30 - qBittorrent v5.0.2 started. Process ID: 144
+(N) 2024-11-27T20:56:30 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T20:56:30 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T20:56:30 - Peer ID: "-qB5020-"
+(I) 2024-11-27T20:56:30 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T20:56:30 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T20:56:30 - Local Peer Discovery support: ON
+(I) 2024-11-27T20:56:30 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T20:56:30 - Anonymous mode: ON
+(I) 2024-11-27T20:56:30 - Encryption support: ON
+(I) 2024-11-27T20:56:30 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T20:56:30 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T20:56:30 - Successfully listening on IP. IP: "172.19.0.3". Port: "TCP/6881"
+(I) 2024-11-27T20:56:30 - Successfully listening on IP. IP: "172.19.0.3". Port: "UTP/6881"
+(I) 2024-11-27T20:56:30 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T20:56:30 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T20:56:30 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(N) 2024-11-27T20:56:30 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T20:56:30 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T20:56:30 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(I) 2024-11-27T20:56:30 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T20:56:30 - Using built-in WebUI.
+(N) 2024-11-27T20:56:30 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T20:56:30 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-11-27T20:56:31 - WebAPI login success. IP: ::ffff:172.19.0.7
+(N) 2024-11-27T20:56:31 - WebAPI login success. IP: ::ffff:172.19.0.5
+(I) 2024-11-27T20:56:35 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T20:58:10 - qBittorrent termination initiated
+(N) 2024-11-27T20:58:10 - Saving resume data completed.
+(N) 2024-11-27T20:58:10 - BitTorrent session successfully finished.
+(N) 2024-11-27T20:58:10 - qBittorrent is now ready to exit
+(N) 2024-11-27T20:58:23 - qBittorrent v5.0.2 started. Process ID: 143
+(N) 2024-11-27T20:58:23 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T20:58:23 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T20:58:23 - Peer ID: "-qB5020-"
+(I) 2024-11-27T20:58:23 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T20:58:23 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T20:58:23 - Local Peer Discovery support: ON
+(I) 2024-11-27T20:58:23 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T20:58:23 - Anonymous mode: ON
+(I) 2024-11-27T20:58:23 - Encryption support: ON
+(I) 2024-11-27T20:58:23 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T20:58:23 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T20:58:23 - Successfully listening on IP. IP: "172.19.0.6". Port: "TCP/6881"
+(I) 2024-11-27T20:58:23 - Successfully listening on IP. IP: "172.19.0.6". Port: "UTP/6881"
+(I) 2024-11-27T20:58:23 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T20:58:23 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T20:58:23 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(N) 2024-11-27T20:58:23 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T20:58:23 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T20:58:23 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(I) 2024-11-27T20:58:23 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T20:58:23 - Using built-in WebUI.
+(N) 2024-11-27T20:58:23 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T20:58:23 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-11-27T20:58:24 - WebAPI login success. IP: ::ffff:172.19.0.5
+(N) 2024-11-27T20:58:24 - WebAPI login success. IP: ::ffff:172.19.0.7
+(I) 2024-11-27T20:58:28 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T21:02:16 - qBittorrent termination initiated
+(N) 2024-11-27T21:02:16 - Saving resume data completed.
+(N) 2024-11-27T21:02:16 - BitTorrent session successfully finished.
+(N) 2024-11-27T21:02:16 - qBittorrent is now ready to exit
+(N) 2024-11-27T21:02:30 - qBittorrent v5.0.2 started. Process ID: 145
+(N) 2024-11-27T21:02:30 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T21:02:30 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T21:02:30 - Peer ID: "-qB5020-"
+(I) 2024-11-27T21:02:30 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T21:02:30 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T21:02:30 - Local Peer Discovery support: ON
+(I) 2024-11-27T21:02:30 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T21:02:30 - Anonymous mode: ON
+(I) 2024-11-27T21:02:30 - Encryption support: ON
+(I) 2024-11-27T21:02:30 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T21:02:30 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T21:02:30 - Successfully listening on IP. IP: "172.19.0.7". Port: "TCP/6881"
+(I) 2024-11-27T21:02:30 - Successfully listening on IP. IP: "172.19.0.7". Port: "UTP/6881"
+(I) 2024-11-27T21:02:30 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T21:02:30 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T21:02:30 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(N) 2024-11-27T21:02:30 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T21:02:30 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T21:02:30 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(I) 2024-11-27T21:02:30 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T21:02:30 - Using built-in WebUI.
+(N) 2024-11-27T21:02:30 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T21:02:30 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-11-27T21:02:30 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T21:02:31 - WebAPI login success. IP: ::ffff:172.19.0.5
+(N) 2024-11-27T21:02:32 - WebAPI login success. IP: ::ffff:172.19.0.3
+(N) 2024-11-27T21:03:45 - qBittorrent termination initiated
+(N) 2024-11-27T21:03:45 - Saving resume data completed.
+(N) 2024-11-27T21:03:45 - BitTorrent session successfully finished.
+(N) 2024-11-27T21:03:45 - qBittorrent is now ready to exit
+(N) 2024-11-27T21:03:58 - qBittorrent v5.0.2 started. Process ID: 145
+(N) 2024-11-27T21:03:58 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T21:03:58 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T21:03:58 - Peer ID: "-qB5020-"
+(I) 2024-11-27T21:03:58 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T21:03:58 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T21:03:58 - Local Peer Discovery support: ON
+(I) 2024-11-27T21:03:58 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T21:03:58 - Anonymous mode: ON
+(I) 2024-11-27T21:03:58 - Encryption support: ON
+(I) 2024-11-27T21:03:58 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T21:03:58 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T21:03:58 - Successfully listening on IP. IP: "172.19.0.5". Port: "TCP/6881"
+(I) 2024-11-27T21:03:58 - Successfully listening on IP. IP: "172.19.0.5". Port: "UTP/6881"
+(I) 2024-11-27T21:03:58 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T21:03:58 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T21:03:58 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(N) 2024-11-27T21:03:58 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T21:03:58 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T21:03:58 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(I) 2024-11-27T21:03:58 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T21:03:58 - Using built-in WebUI.
+(N) 2024-11-27T21:03:58 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T21:03:58 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-11-27T21:04:00 - WebAPI login success. IP: ::ffff:172.19.0.3
+(N) 2024-11-27T21:04:00 - WebAPI login success. IP: ::ffff:172.19.0.4
+(I) 2024-11-27T21:04:03 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T21:07:57 - qBittorrent termination initiated
+(N) 2024-11-27T21:07:57 - Saving resume data completed.
+(N) 2024-11-27T21:07:57 - BitTorrent session successfully finished.
+(N) 2024-11-27T21:07:57 - qBittorrent is now ready to exit
+(N) 2024-11-27T21:08:11 - qBittorrent v5.0.2 started. Process ID: 145
+(N) 2024-11-27T21:08:11 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T21:08:11 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T21:08:11 - Peer ID: "-qB5020-"
+(I) 2024-11-27T21:08:11 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T21:08:11 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T21:08:11 - Local Peer Discovery support: ON
+(I) 2024-11-27T21:08:11 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T21:08:11 - Anonymous mode: ON
+(I) 2024-11-27T21:08:11 - Encryption support: ON
+(I) 2024-11-27T21:08:11 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T21:08:11 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T21:08:11 - Successfully listening on IP. IP: "172.19.0.7". Port: "TCP/6881"
+(I) 2024-11-27T21:08:11 - Successfully listening on IP. IP: "172.19.0.7". Port: "UTP/6881"
+(I) 2024-11-27T21:08:11 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T21:08:11 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T21:08:11 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(N) 2024-11-27T21:08:11 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T21:08:11 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T21:08:11 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(I) 2024-11-27T21:08:11 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T21:08:11 - Using built-in WebUI.
+(N) 2024-11-27T21:08:11 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T21:08:11 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-11-27T21:08:11 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T21:08:12 - WebAPI login success. IP: ::ffff:172.19.0.4
+(N) 2024-11-27T21:08:13 - WebAPI login success. IP: ::ffff:172.19.0.5
+(N) 2024-11-27T21:08:26 - qBittorrent termination initiated
+(N) 2024-11-27T21:08:26 - Saving resume data completed.
+(N) 2024-11-27T21:08:26 - BitTorrent session successfully finished.
+(N) 2024-11-27T21:08:26 - qBittorrent is now ready to exit
+(N) 2024-11-27T21:08:37 - qBittorrent v5.0.2 started. Process ID: 145
+(N) 2024-11-27T21:08:37 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T21:08:37 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T21:08:37 - Peer ID: "-qB5020-"
+(I) 2024-11-27T21:08:37 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T21:08:37 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T21:08:37 - Local Peer Discovery support: ON
+(I) 2024-11-27T21:08:37 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T21:08:37 - Anonymous mode: ON
+(I) 2024-11-27T21:08:37 - Encryption support: ON
+(I) 2024-11-27T21:08:37 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T21:08:37 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T21:08:37 - Successfully listening on IP. IP: "172.19.0.6". Port: "TCP/6881"
+(I) 2024-11-27T21:08:37 - Successfully listening on IP. IP: "172.19.0.6". Port: "UTP/6881"
+(I) 2024-11-27T21:08:37 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T21:08:37 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T21:08:37 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(N) 2024-11-27T21:08:37 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T21:08:37 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T21:08:37 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(I) 2024-11-27T21:08:37 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T21:08:37 - Using built-in WebUI.
+(N) 2024-11-27T21:08:37 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T21:08:37 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-11-27T21:08:37 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T21:08:39 - WebAPI login success. IP: ::ffff:172.19.0.4
+(N) 2024-11-27T21:08:39 - WebAPI login success. IP: ::ffff:172.19.0.5
+(N) 2024-11-27T21:09:06 - qBittorrent termination initiated
+(N) 2024-11-27T21:09:06 - Saving resume data completed.
+(N) 2024-11-27T21:09:06 - BitTorrent session successfully finished.
+(N) 2024-11-27T21:09:06 - qBittorrent is now ready to exit
+(N) 2024-11-27T21:09:19 - qBittorrent v5.0.2 started. Process ID: 144
+(N) 2024-11-27T21:09:19 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T21:09:19 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T21:09:19 - Peer ID: "-qB5020-"
+(I) 2024-11-27T21:09:19 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T21:09:19 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T21:09:19 - Local Peer Discovery support: ON
+(I) 2024-11-27T21:09:19 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T21:09:19 - Anonymous mode: ON
+(I) 2024-11-27T21:09:19 - Encryption support: ON
+(I) 2024-11-27T21:09:19 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T21:09:19 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T21:09:19 - Successfully listening on IP. IP: "172.19.0.5". Port: "TCP/6881"
+(I) 2024-11-27T21:09:19 - Successfully listening on IP. IP: "172.19.0.5". Port: "UTP/6881"
+(I) 2024-11-27T21:09:19 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T21:09:19 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T21:09:19 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(N) 2024-11-27T21:09:19 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T21:09:19 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T21:09:19 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(I) 2024-11-27T21:09:19 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T21:09:19 - Using built-in WebUI.
+(N) 2024-11-27T21:09:19 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T21:09:19 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-11-27T21:09:21 - WebAPI login success. IP: ::ffff:172.19.0.6
+(N) 2024-11-27T21:09:21 - WebAPI login success. IP: ::ffff:172.19.0.4
+(I) 2024-11-27T21:09:25 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T21:10:58 - qBittorrent termination initiated
+(N) 2024-11-27T21:10:58 - Saving resume data completed.
+(N) 2024-11-27T21:10:58 - BitTorrent session successfully finished.
+(N) 2024-11-27T21:10:58 - qBittorrent is now ready to exit
+(N) 2024-11-27T21:11:12 - qBittorrent v5.0.2 started. Process ID: 145
+(N) 2024-11-27T21:11:12 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T21:11:12 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T21:11:12 - Peer ID: "-qB5020-"
+(I) 2024-11-27T21:11:12 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T21:11:12 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T21:11:12 - Local Peer Discovery support: ON
+(I) 2024-11-27T21:11:12 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T21:11:12 - Anonymous mode: ON
+(I) 2024-11-27T21:11:12 - Encryption support: ON
+(I) 2024-11-27T21:11:12 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T21:11:12 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T21:11:12 - Successfully listening on IP. IP: "172.19.0.2". Port: "TCP/6881"
+(I) 2024-11-27T21:11:12 - Successfully listening on IP. IP: "172.19.0.2". Port: "UTP/6881"
+(I) 2024-11-27T21:11:12 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T21:11:12 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T21:11:12 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(N) 2024-11-27T21:11:12 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T21:11:12 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T21:11:12 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(I) 2024-11-27T21:11:12 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T21:11:12 - Using built-in WebUI.
+(N) 2024-11-27T21:11:12 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T21:11:12 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-11-27T21:11:13 - WebAPI login success. IP: ::ffff:172.19.0.6
+(N) 2024-11-27T21:11:14 - WebAPI login success. IP: ::ffff:172.19.0.3
+(I) 2024-11-27T21:11:16 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T21:27:28 - qBittorrent termination initiated
+(N) 2024-11-27T21:27:28 - Saving resume data completed.
+(N) 2024-11-27T21:27:28 - BitTorrent session successfully finished.
+(N) 2024-11-27T21:27:28 - qBittorrent is now ready to exit
+(N) 2024-11-27T21:27:43 - qBittorrent v5.0.2 started. Process ID: 145
+(N) 2024-11-27T21:27:43 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T21:27:43 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T21:27:43 - Peer ID: "-qB5020-"
+(I) 2024-11-27T21:27:43 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T21:27:43 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T21:27:43 - Local Peer Discovery support: ON
+(I) 2024-11-27T21:27:43 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T21:27:43 - Anonymous mode: ON
+(I) 2024-11-27T21:27:43 - Encryption support: ON
+(I) 2024-11-27T21:27:43 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T21:27:43 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T21:27:43 - Successfully listening on IP. IP: "172.19.0.5". Port: "TCP/6881"
+(I) 2024-11-27T21:27:43 - Successfully listening on IP. IP: "172.19.0.5". Port: "UTP/6881"
+(I) 2024-11-27T21:27:43 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T21:27:43 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T21:27:43 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(N) 2024-11-27T21:27:43 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T21:27:43 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T21:27:43 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(I) 2024-11-27T21:27:43 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T21:27:43 - Using built-in WebUI.
+(N) 2024-11-27T21:27:43 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T21:27:43 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-11-27T21:27:44 - WebAPI login success. IP: ::ffff:172.19.0.7
+(N) 2024-11-27T21:27:44 - WebAPI login success. IP: ::ffff:172.19.0.6
+(I) 2024-11-27T21:27:47 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T21:34:59 - qBittorrent termination initiated
+(N) 2024-11-27T21:34:59 - Saving resume data completed.
+(N) 2024-11-27T21:34:59 - BitTorrent session successfully finished.
+(N) 2024-11-27T21:34:59 - qBittorrent is now ready to exit
+(N) 2024-11-27T21:35:13 - qBittorrent v5.0.2 started. Process ID: 145
+(N) 2024-11-27T21:35:13 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T21:35:13 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T21:35:13 - Peer ID: "-qB5020-"
+(I) 2024-11-27T21:35:13 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T21:35:13 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T21:35:13 - Local Peer Discovery support: ON
+(I) 2024-11-27T21:35:13 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T21:35:13 - Anonymous mode: ON
+(I) 2024-11-27T21:35:13 - Encryption support: ON
+(I) 2024-11-27T21:35:13 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T21:35:13 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T21:35:13 - Successfully listening on IP. IP: "172.19.0.7". Port: "TCP/6881"
+(I) 2024-11-27T21:35:13 - Successfully listening on IP. IP: "172.19.0.7". Port: "UTP/6881"
+(I) 2024-11-27T21:35:13 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T21:35:13 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T21:35:13 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(N) 2024-11-27T21:35:13 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T21:35:13 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T21:35:13 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(I) 2024-11-27T21:35:13 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T21:35:13 - Using built-in WebUI.
+(N) 2024-11-27T21:35:13 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T21:35:13 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-11-27T21:35:15 - WebAPI login success. IP: ::ffff:172.19.0.6
+(N) 2024-11-27T21:35:15 - WebAPI login success. IP: ::ffff:172.19.0.5
+(I) 2024-11-27T21:35:18 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T21:35:48 - qBittorrent termination initiated
+(N) 2024-11-27T21:35:48 - Saving resume data completed.
+(N) 2024-11-27T21:35:48 - BitTorrent session successfully finished.
+(N) 2024-11-27T21:35:48 - qBittorrent is now ready to exit
+(N) 2024-11-27T21:36:02 - qBittorrent v5.0.2 started. Process ID: 144
+(N) 2024-11-27T21:36:02 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T21:36:02 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T21:36:02 - Peer ID: "-qB5020-"
+(I) 2024-11-27T21:36:02 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T21:36:02 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T21:36:02 - Local Peer Discovery support: ON
+(I) 2024-11-27T21:36:02 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T21:36:02 - Anonymous mode: ON
+(I) 2024-11-27T21:36:02 - Encryption support: ON
+(I) 2024-11-27T21:36:02 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T21:36:02 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T21:36:02 - Successfully listening on IP. IP: "172.19.0.4". Port: "TCP/6881"
+(I) 2024-11-27T21:36:02 - Successfully listening on IP. IP: "172.19.0.4". Port: "UTP/6881"
+(I) 2024-11-27T21:36:02 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T21:36:02 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T21:36:02 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(N) 2024-11-27T21:36:02 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T21:36:02 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T21:36:02 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(I) 2024-11-27T21:36:02 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T21:36:02 - Using built-in WebUI.
+(N) 2024-11-27T21:36:02 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T21:36:02 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-11-27T21:36:03 - WebAPI login success. IP: ::ffff:172.19.0.6
+(N) 2024-11-27T21:36:03 - WebAPI login success. IP: ::ffff:172.19.0.3
+(I) 2024-11-27T21:36:07 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T21:38:36 - qBittorrent termination initiated
+(N) 2024-11-27T21:38:36 - Saving resume data completed.
+(N) 2024-11-27T21:38:36 - BitTorrent session successfully finished.
+(N) 2024-11-27T21:38:36 - qBittorrent is now ready to exit
+(N) 2024-11-27T21:38:49 - qBittorrent v5.0.2 started. Process ID: 145
+(N) 2024-11-27T21:38:49 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T21:38:49 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T21:38:49 - Peer ID: "-qB5020-"
+(I) 2024-11-27T21:38:49 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T21:38:49 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T21:38:49 - Local Peer Discovery support: ON
+(I) 2024-11-27T21:38:49 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T21:38:49 - Anonymous mode: ON
+(I) 2024-11-27T21:38:49 - Encryption support: ON
+(I) 2024-11-27T21:38:49 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T21:38:49 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T21:38:49 - Successfully listening on IP. IP: "172.19.0.4". Port: "TCP/6881"
+(I) 2024-11-27T21:38:49 - Successfully listening on IP. IP: "172.19.0.4". Port: "UTP/6881"
+(I) 2024-11-27T21:38:49 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T21:38:49 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T21:38:49 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(N) 2024-11-27T21:38:49 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T21:38:49 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T21:38:49 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(I) 2024-11-27T21:38:49 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T21:38:49 - Using built-in WebUI.
+(N) 2024-11-27T21:38:49 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T21:38:49 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-11-27T21:38:51 - WebAPI login success. IP: ::ffff:172.19.0.7
+(N) 2024-11-27T21:38:51 - WebAPI login success. IP: ::ffff:172.19.0.3
+(I) 2024-11-27T21:38:54 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T21:39:11 - Added new torrent. Torrent: "a200ff4d339d57928b04b2328c551ec8df605f97"
+(N) 2024-11-27T21:42:28 - qBittorrent termination initiated
+(N) 2024-11-27T21:42:28 - Saving resume data completed.
+(N) 2024-11-27T21:42:28 - BitTorrent session successfully finished.
+(N) 2024-11-27T21:42:28 - qBittorrent is now ready to exit
+(N) 2024-11-27T21:42:42 - qBittorrent v5.0.2 started. Process ID: 145
+(N) 2024-11-27T21:42:42 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T21:42:42 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T21:42:42 - Peer ID: "-qB5020-"
+(I) 2024-11-27T21:42:42 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T21:42:42 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T21:42:42 - Local Peer Discovery support: ON
+(I) 2024-11-27T21:42:42 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T21:42:42 - Anonymous mode: ON
+(I) 2024-11-27T21:42:42 - Encryption support: ON
+(I) 2024-11-27T21:42:42 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T21:42:42 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T21:42:42 - Successfully listening on IP. IP: "172.19.0.3". Port: "TCP/6881"
+(I) 2024-11-27T21:42:42 - Successfully listening on IP. IP: "172.19.0.3". Port: "UTP/6881"
+(I) 2024-11-27T21:42:42 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T21:42:42 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T21:42:42 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T21:42:42 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T21:42:42 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(N) 2024-11-27T21:42:42 - Restored torrent. Torrent: "a200ff4d339d57928b04b2328c551ec8df605f97"
+(N) 2024-11-27T21:42:42 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(I) 2024-11-27T21:42:42 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T21:42:42 - Using built-in WebUI.
+(N) 2024-11-27T21:42:42 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T21:42:42 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-11-27T21:42:42 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T21:42:43 - WebAPI login success. IP: ::ffff:172.19.0.5
+(N) 2024-11-27T21:42:44 - WebAPI login success. IP: ::ffff:172.19.0.6
+(N) 2024-11-27T21:42:57 - Added new torrent. Torrent: "30b75b525adf0071808c85701841481f0d042933"
+(N) 2024-11-27T21:45:01 - Enqueued torrent move. Torrent: "미운 우리 새끼.E419.241124.720p-NEXT.mp4". Source: "/downloads/incomplete". Destination: "/downloads"
+(N) 2024-11-27T21:45:01 - Start moving torrent. Torrent: "미운 우리 새끼.E419.241124.720p-NEXT.mp4". Destination: "/downloads"
+(N) 2024-11-27T21:45:01 - Moved torrent successfully. Torrent: "미운 우리 새끼.E419.241124.720p-NEXT.mp4". Destination: "/downloads"
+(N) 2024-11-27T21:45:01 - Torrent download finished. Torrent: "미운 우리 새끼.E419.241124.720p-NEXT.mp4"
+(N) 2024-11-27T21:49:04 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-11-27T21:53:51 - Enqueued torrent move. Torrent: "아는 형님.E460.241123.1080p.H264-F1RST.mp4". Source: "/downloads/incomplete". Destination: "/downloads"
+(N) 2024-11-27T21:53:51 - Start moving torrent. Torrent: "아는 형님.E460.241123.1080p.H264-F1RST.mp4". Destination: "/downloads"
+(N) 2024-11-27T21:53:51 - Moved torrent successfully. Torrent: "아는 형님.E460.241123.1080p.H264-F1RST.mp4". Destination: "/downloads"
+(N) 2024-11-27T21:53:51 - Torrent download finished. Torrent: "아는 형님.E460.241123.1080p.H264-F1RST.mp4"
+(N) 2024-11-27T22:00:19 - Enqueued torrent move. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4". Source: "/downloads/incomplete". Destination: "/downloads"
+(N) 2024-11-27T22:00:19 - Start moving torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4". Destination: "/downloads"
+(N) 2024-11-27T22:00:19 - Moved torrent successfully. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4". Destination: "/downloads"
+(N) 2024-11-27T22:00:19 - Torrent download finished. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(N) 2024-11-27T22:11:33 - qBittorrent termination initiated
+(N) 2024-11-27T22:11:33 - Saving resume data completed.
+(N) 2024-11-27T22:11:34 - BitTorrent session successfully finished.
+(N) 2024-11-27T22:11:34 - qBittorrent is now ready to exit
+(N) 2024-11-27T22:11:48 - qBittorrent v5.0.2 started. Process ID: 145
+(N) 2024-11-27T22:11:48 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T22:11:48 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T22:11:48 - Peer ID: "-qB5020-"
+(I) 2024-11-27T22:11:48 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T22:11:48 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T22:11:48 - Local Peer Discovery support: ON
+(I) 2024-11-27T22:11:48 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T22:11:48 - Anonymous mode: ON
+(I) 2024-11-27T22:11:48 - Encryption support: ON
+(I) 2024-11-27T22:11:48 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T22:11:48 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T22:11:48 - Successfully listening on IP. IP: "172.19.0.3". Port: "TCP/6881"
+(I) 2024-11-27T22:11:48 - Successfully listening on IP. IP: "172.19.0.3". Port: "UTP/6881"
+(I) 2024-11-27T22:11:48 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T22:11:48 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T22:11:48 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T22:11:48 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T22:11:48 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(N) 2024-11-27T22:11:48 - Restored torrent. Torrent: "아는 형님.E460.241123.1080p.H264-F1RST.mp4"
+(N) 2024-11-27T22:11:48 - Restored torrent. Torrent: "미운 우리 새끼.E419.241124.720p-NEXT.mp4"
+(N) 2024-11-27T22:11:48 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(I) 2024-11-27T22:11:48 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T22:11:48 - Using built-in WebUI.
+(N) 2024-11-27T22:11:48 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T22:11:48 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-11-27T22:11:48 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T22:11:50 - WebAPI login success. IP: ::ffff:172.19.0.4
+(N) 2024-11-27T22:11:50 - WebAPI login success. IP: ::ffff:172.19.0.5
+(N) 2024-11-27T22:12:54 - qBittorrent termination initiated
+(N) 2024-11-27T22:12:54 - Saving resume data completed.
+(N) 2024-11-27T22:12:54 - BitTorrent session successfully finished.
+(N) 2024-11-27T22:12:54 - qBittorrent is now ready to exit
+(N) 2024-11-27T22:13:08 - qBittorrent v5.0.2 started. Process ID: 145
+(N) 2024-11-27T22:13:08 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T22:13:08 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T22:13:08 - Peer ID: "-qB5020-"
+(I) 2024-11-27T22:13:08 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T22:13:08 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T22:13:08 - Local Peer Discovery support: ON
+(I) 2024-11-27T22:13:08 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T22:13:08 - Anonymous mode: ON
+(I) 2024-11-27T22:13:08 - Encryption support: ON
+(I) 2024-11-27T22:13:08 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T22:13:08 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T22:13:08 - Successfully listening on IP. IP: "172.19.0.5". Port: "TCP/6881"
+(I) 2024-11-27T22:13:08 - Successfully listening on IP. IP: "172.19.0.5". Port: "UTP/6881"
+(I) 2024-11-27T22:13:08 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T22:13:08 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T22:13:08 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T22:13:08 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T22:13:08 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(N) 2024-11-27T22:13:08 - Restored torrent. Torrent: "아는 형님.E460.241123.1080p.H264-F1RST.mp4"
+(N) 2024-11-27T22:13:08 - Restored torrent. Torrent: "미운 우리 새끼.E419.241124.720p-NEXT.mp4"
+(N) 2024-11-27T22:13:08 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(I) 2024-11-27T22:13:08 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T22:13:08 - Using built-in WebUI.
+(N) 2024-11-27T22:13:08 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T22:13:08 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-11-27T22:13:08 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T22:13:09 - WebAPI login success. IP: ::ffff:172.19.0.7
+(N) 2024-11-27T22:13:10 - WebAPI login success. IP: ::ffff:172.19.0.4
+(N) 2024-11-27T22:17:39 - qBittorrent termination initiated
+(N) 2024-11-27T22:17:39 - Saving resume data completed.
+(N) 2024-11-27T22:17:40 - BitTorrent session successfully finished.
+(N) 2024-11-27T22:17:40 - qBittorrent is now ready to exit
+(N) 2024-11-27T22:17:49 - qBittorrent v5.0.2 started. Process ID: 145
+(N) 2024-11-27T22:17:49 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T22:17:49 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T22:17:49 - Peer ID: "-qB5020-"
+(I) 2024-11-27T22:17:49 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T22:17:49 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T22:17:49 - Local Peer Discovery support: ON
+(I) 2024-11-27T22:17:49 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T22:17:49 - Anonymous mode: ON
+(I) 2024-11-27T22:17:49 - Encryption support: ON
+(I) 2024-11-27T22:17:49 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T22:17:49 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T22:17:49 - Successfully listening on IP. IP: "172.19.0.7". Port: "TCP/6881"
+(I) 2024-11-27T22:17:49 - Successfully listening on IP. IP: "172.19.0.7". Port: "UTP/6881"
+(I) 2024-11-27T22:17:49 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T22:17:49 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T22:17:49 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T22:17:49 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T22:17:49 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(W) 2024-11-27T22:17:49 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4". Reason: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4 fast resume rejected. file_stat(/downloads/놀면 뭐하니.E258.241123.1080p.WANNA.mp4): mismatching file size"
+(N) 2024-11-27T22:17:49 - Restored torrent. Torrent: "아는 형님.E460.241123.1080p.H264-F1RST.mp4"
+(W) 2024-11-27T22:17:49 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "아는 형님.E460.241123.1080p.H264-F1RST.mp4". Reason: "아는 형님.E460.241123.1080p.H264-F1RST.mp4 fast resume rejected. file_stat(/downloads/아는 형님.E460.241123.1080p.H264-F1RST.mp4): mismatching file size"
+(N) 2024-11-27T22:17:49 - Restored torrent. Torrent: "미운 우리 새끼.E419.241124.720p-NEXT.mp4"
+(W) 2024-11-27T22:17:49 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "미운 우리 새끼.E419.241124.720p-NEXT.mp4". Reason: "미운 우리 새끼.E419.241124.720p-NEXT.mp4 fast resume rejected. file_stat(/downloads/미운 우리 새끼.E419.241124.720p-NEXT.mp4): mismatching file size"
+(N) 2024-11-27T22:17:49 - Restored torrent. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4"
+(I) 2024-11-27T22:17:49 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Nov 1 15:25:09 2024.
+(N) 2024-11-27T22:17:49 - Using built-in WebUI.
+(N) 2024-11-27T22:17:49 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-11-27T22:17:49 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-11-27T22:17:49 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "나 혼자 산다.E571.241115.720p-NEXT.mp4". Reason: "나 혼자 산다.E571.241115.720p-NEXT.mp4 fast resume rejected. file_stat(/downloads/나 혼자 산다.E571.241115.720p-NEXT.mp4): mismatching file size"
+(I) 2024-11-27T22:17:50 - Detected external IP. IP: "115.188.137.210"
+(N) 2024-11-27T22:17:51 - WebAPI login success. IP: ::ffff:172.19.0.5
+(N) 2024-11-27T22:17:52 - WebAPI login success. IP: ::ffff:172.19.0.4
+(N) 2024-11-27T22:19:34 - qBittorrent termination initiated
+(N) 2024-11-27T22:19:34 - Saving resume data completed.
+(N) 2024-11-27T22:19:35 - BitTorrent session successfully finished.
+(N) 2024-11-27T22:19:35 - qBittorrent is now ready to exit
+(N) 2024-11-27T22:19:49 - qBittorrent v5.0.2 started. Process ID: 145
+(N) 2024-11-27T22:19:49 - Using config directory: /config/qBittorrent
+(N) 2024-11-27T22:19:49 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-11-27T22:19:49 - Peer ID: "-qB5020-"
+(I) 2024-11-27T22:19:49 - HTTP User-Agent: "qBittorrent/5.0.2"
+(I) 2024-11-27T22:19:49 - Distributed Hash Table (DHT) support: ON
+(I) 2024-11-27T22:19:49 - Local Peer Discovery support: ON
+(I) 2024-11-27T22:19:49 - Peer Exchange (PeX) support: ON
+(I) 2024-11-27T22:19:49 - Anonymous mode: ON
+(I) 2024-11-27T22:19:49 - Encryption support: ON
+(I) 2024-11-27T22:19:49 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-11-27T22:19:49 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-11-27T22:19:49 - Successfully listening on IP. IP: "172.19.0.7". Port: "TCP/6881"
+(I) 2024-11-27T22:19:49 - Successfully listening on IP. IP: "172.19.0.7". Port: "UTP/6881"
+(I) 2024-11-27T22:19:49 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-11-27T22:19:49 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-11-27T22:19:49 - Restored torrent. Torrent: "67b09c8253f2905bd382939b185191030f63347a"
+(N) 2024-11-27T22:19:49 - Restored torrent. Torrent: "94a41c9719e7a4cec2984f75a09b1cce2ee3f01e"
+(N) 2024-11-27T22:19:49 - Restored torrent. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4"
+(W) 2024-11-27T22:19:49 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4". Reason: "놀면 뭐하니.E258.241123.1080p.WANNA.mp4 fast resume rejected. file_stat(/downloads/놀면 뭐하니.E258.241123.1080p.WANNA.mp4): mismatching file size"
+(N) 2024-11-27T22:19:49 - Restored torrent. Torrent: "아는 형님.E460.241123.1080p.H264-F1RST.mp4"
+(W) 2024-11-27T22:19:49 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "아는 형님.E460.241123.1080p.H264-F1RST.mp4". Reason: "아는 형님.E460.241123.1080p.H264-F1RST.mp4 fast resume rejected. file_stat(/downloads/아는 형님.E460.241123.1080p.H264-F1RST.mp4): mismatching file size"
+(N) 2024-11-27T22:19:49 - Restored torrent. Torrent: "미운 우리 새끼.E419.241124.720p-NEXT.mp4"
+(W) 2024-11-27T22:19:49 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "미운 우리 새끼.E419.241124.720p-NEXT.mp4". Reason: "미운 우리 새끼.E419.241124.720p-NEXT.mp4 fast resume rejected. file_stat(/downloads/미운 우리 새끼.E419.241124.720p-NEXT.mp4): mismatching file size"

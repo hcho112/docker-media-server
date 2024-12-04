@@ -1,0 +1,36 @@
+# Node.js (for middleware directory)
+middleware/node_modules/
+middleware/npm-debug.log*
+middleware/yarn-debug.log*
+middleware/yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.*
+
+# Service configs (only ignore dynamic/sensitive content)
+config/qbittorrent/.ash_history
+config/qbittorrent/qBittorrent/nova3/engines/__pycache__/
+config/qbittorrent/qBittorrent/lockfile
+config/qbittorrent/qBittorrent/watched_folders.json
+
+config/radarr/logs/
+config/radarr/Sentry/
+config/radarr/*.txt
+config/radarr/*.db*
+
+# Media files
+/downloads/
+*.mp4
+*.mkv
+*.avi
+
+# OS files
+.DS_Store
+._*
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
