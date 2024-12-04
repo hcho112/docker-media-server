@@ -8,7 +8,7 @@ services:
       - TZ=Pacific/Auckland
       - WEBUI_PORT=8080
     volumes:
-      - /Volumes/T7/downloads:/downloads
+      - ${DOWNLOADS_PATH}:/downloads
       - ./config/qbittorrent:/config
     networks:
       - media-network
@@ -41,7 +41,7 @@ services:
       - PGID=1000
       - TZ=Pacific/Auckland
     volumes:
-      - /Volumes/T7/downloads:/downloads
+      - ${DOWNLOADS_PATH}:/downloads
       - ./config/sonarr:/config
     networks:
       - media-network
@@ -57,8 +57,8 @@ services:
       - PGID=1000
       - TZ=Pacific/Auckland
     volumes:
-      - /Volumes/T7/downloads:/downloads
-      - /Volumes/T7/movies:/movies
+      - ${DOWNLOADS_PATH}:/downloads
+      - ${MOVIES_PATH}:/movies
       - ./config/radarr:/config
     networks:
       - media-network
